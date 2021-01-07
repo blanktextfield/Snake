@@ -1,0 +1,13 @@
+C:\Users\mammu\source\repos\SNAKE\SNAKE\bin\Debug\netcoreapp3.1\SNAKE.exe
+C:\Users\mammu\source\repos\SNAKE\SNAKE\bin\Debug\netcoreapp3.1\SNAKE.deps.json
+C:\Users\mammu\source\repos\SNAKE\SNAKE\bin\Debug\netcoreapp3.1\SNAKE.runtimeconfig.json
+C:\Users\mammu\source\repos\SNAKE\SNAKE\bin\Debug\netcoreapp3.1\SNAKE.runtimeconfig.dev.json
+C:\Users\mammu\source\repos\SNAKE\SNAKE\bin\Debug\netcoreapp3.1\SNAKE.dll
+C:\Users\mammu\source\repos\SNAKE\SNAKE\bin\Debug\netcoreapp3.1\SNAKE.pdb
+C:\Users\mammu\source\repos\SNAKE\SNAKE\obj\Debug\netcoreapp3.1\SNAKE.csprojAssemblyReference.cache
+C:\Users\mammu\source\repos\SNAKE\SNAKE\obj\Debug\netcoreapp3.1\SNAKE.AssemblyInfoInputs.cache
+C:\Users\mammu\source\repos\SNAKE\SNAKE\obj\Debug\netcoreapp3.1\SNAKE.AssemblyInfo.cs
+C:\Users\mammu\source\repos\SNAKE\SNAKE\obj\Debug\netcoreapp3.1\SNAKE.csproj.CoreCompileInputs.cache
+C:\Users\mammu\source\repos\SNAKE\SNAKE\obj\Debug\netcoreapp3.1\SNAKE.dll
+C:\Users\mammu\source\repos\SNAKE\SNAKE\obj\Debug\netcoreapp3.1\SNAKE.pdb
+C:\Users\mammu\source\repos\SNAKE\SNAKE\obj\Debug\netcoreapp3.1\SNAKE.genruntimeconfig.cache
